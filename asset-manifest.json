@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.b5e0b178.css",
+    "main.js": "/tictactoe/static/js/main.7498bff0.js",
+    "static/js/787.1f409026.chunk.js": "/tictactoe/static/js/787.1f409026.chunk.js",
+    "static/media/game_over.wav": "/tictactoe/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/tictactoe/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/tictactoe/index.html",
+    "main.b5e0b178.css.map": "/tictactoe/static/css/main.b5e0b178.css.map",
+    "main.7498bff0.js.map": "/tictactoe/static/js/main.7498bff0.js.map",
+    "787.1f409026.chunk.js.map": "/tictactoe/static/js/787.1f409026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e0b178.css",
+    "static/js/main.7498bff0.js"
+  ]
+}
