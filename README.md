@@ -4,6 +4,6 @@
 
 ## Try the game here:
 
-https://amanshar08.github.io/tictactoe/
+https://amanshar08.github.io/TicTacToe/
 
 Hi my name is Aman Sharma. I hope you enjoy this game.
